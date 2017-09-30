@@ -1,0 +1,22 @@
+{
+  "name": "imggrid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkonieczek/imggrid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkonieczek/imggrid/issues"
+  },
+  "homepage": "https://github.com/dkonieczek/imggrid#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
